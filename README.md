@@ -18,6 +18,7 @@
   </a>
 </div>
 
+###
 
 * Студент 1 курса факультета ["Информационные системы и технологии" в ИТМО](https://fitp.itmo.ru/p/abit/652)
 * Все проекты и отчеты доступны в репозитории[kv1sidisi/AllProjects](https://github.com/kv1sidisi/AllProjects/blob/main/README.md)
