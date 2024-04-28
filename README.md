@@ -2,9 +2,6 @@
 
 ###
 
-<div id="header" align="center">
-  <h1>Привет👋 Меня зовут Вадим!</h1>
-</div>
 
 ###
 
